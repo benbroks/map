@@ -35,6 +35,7 @@ function App() {
         </div>
         <div className="header-controls">
           <GpxSelector onGpxSelect={handleGpxSelect} />
+          <span className="attribution">Inspired by Daniel Grumbles</span>
         </div>
       </header>
       <main>
