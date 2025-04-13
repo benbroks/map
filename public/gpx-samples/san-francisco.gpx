@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GPX Street Explorer" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>San Francisco Route</name>
+    <desc>A scenic route through San Francisco</desc>
+  </metadata>
+  <trk>
+    <name>San Francisco Route</name>
+    <trkseg>
+      <trkpt lat="37.8085" lon="-122.4241">
+        <ele>5</ele>
+      </trkpt>
+      <trkpt lat="37.8080" lon="-122.4230">
+        <ele>6</ele>
+      </trkpt>
+      <trkpt lat="37.8075" lon="-122.4219">
+        <ele>7</ele>
+      </trkpt>
+      <trkpt lat="37.8070" lon="-122.4208">
+        <ele>8</ele>
+      </trkpt>
+      <trkpt lat="37.8065" lon="-122.4197">
+        <ele>9</ele>
+      </trkpt>
+      <trkpt lat="37.8060" lon="-122.4186">
+        <ele>10</ele>
+      </trkpt>
+      <trkpt lat="37.8055" lon="-122.4175">
+        <ele>11</ele>
+      </trkpt>
+      <trkpt lat="37.8050" lon="-122.4164">
+        <ele>12</ele>
+      </trkpt>
+      <trkpt lat="37.8045" lon="-122.4153">
+        <ele>13</ele>
+      </trkpt>
+      <trkpt lat="37.8040" lon="-122.4142">
+        <ele>14</ele>
+      </trkpt>
+      <trkpt lat="37.8035" lon="-122.4131">
+        <ele>15</ele>
+      </trkpt>
+      <trkpt lat="37.8030" lon="-122.4120">
+        <ele>16</ele>
+      </trkpt>
+      <trkpt lat="37.8025" lon="-122.4109">
+        <ele>17</ele>
+      </trkpt>
+      <trkpt lat="37.8020" lon="-122.4098">
+        <ele>18</ele>
+      </trkpt>
+      <trkpt lat="37.8015" lon="-122.4087">
+        <ele>19</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx> 

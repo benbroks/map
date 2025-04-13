@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GPX Street Explorer" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>Chicago Route</name>
+    <desc>A route through downtown Chicago</desc>
+  </metadata>
+  <trk>
+    <name>Chicago Route</name>
+    <trkseg>
+      <trkpt lat="41.8900" lon="-87.6350">
+        <ele>180</ele>
+      </trkpt>
+      <trkpt lat="41.8895" lon="-87.6340">
+        <ele>180</ele>
+      </trkpt>
+      <trkpt lat="41.8890" lon="-87.6330">
+        <ele>180</ele>
+      </trkpt>
+      <trkpt lat="41.8885" lon="-87.6320">
+        <ele>180</ele>
+      </trkpt>
+      <trkpt lat="41.8880" lon="-87.6310">
+        <ele>180</ele>
+      </trkpt>
+      <trkpt lat="41.8875" lon="-87.6300">
+        <ele>180</ele>
+      </trkpt>
+      <trkpt lat="41.8870" lon="-87.6290">
+        <ele>180</ele>
+      </trkpt>
+      <trkpt lat="41.8865" lon="-87.6280">
+        <ele>180</ele>
+      </trkpt>
+      <trkpt lat="41.8860" lon="-87.6270">
+        <ele>180</ele>
+      </trkpt>
+      <trkpt lat="41.8855" lon="-87.6260">
+        <ele>180</ele>
+      </trkpt>
+      <trkpt lat="41.8850" lon="-87.6250">
+        <ele>180</ele>
+      </trkpt>
+      <trkpt lat="41.8845" lon="-87.6240">
+        <ele>180</ele>
+      </trkpt>
+      <trkpt lat="41.8840" lon="-87.6230">
+        <ele>180</ele>
+      </trkpt>
+      <trkpt lat="41.8835" lon="-87.6220">
+        <ele>180</ele>
+      </trkpt>
+      <trkpt lat="41.8830" lon="-87.6210">
+        <ele>180</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx> 

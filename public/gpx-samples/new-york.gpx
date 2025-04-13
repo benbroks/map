@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GPX Street Explorer" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>New York City Route</name>
+    <desc>A route through Manhattan</desc>
+  </metadata>
+  <trk>
+    <name>New York City Route</name>
+    <trkseg>
+      <trkpt lat="40.7580" lon="-73.9855">
+        <ele>10</ele>
+      </trkpt>
+      <trkpt lat="40.7575" lon="-73.9845">
+        <ele>10</ele>
+      </trkpt>
+      <trkpt lat="40.7570" lon="-73.9835">
+        <ele>10</ele>
+      </trkpt>
+      <trkpt lat="40.7565" lon="-73.9825">
+        <ele>10</ele>
+      </trkpt>
+      <trkpt lat="40.7560" lon="-73.9815">
+        <ele>10</ele>
+      </trkpt>
+      <trkpt lat="40.7555" lon="-73.9805">
+        <ele>10</ele>
+      </trkpt>
+      <trkpt lat="40.7550" lon="-73.9795">
+        <ele>10</ele>
+      </trkpt>
+      <trkpt lat="40.7545" lon="-73.9785">
+        <ele>10</ele>
+      </trkpt>
+      <trkpt lat="40.7540" lon="-73.9775">
+        <ele>10</ele>
+      </trkpt>
+      <trkpt lat="40.7535" lon="-73.9765">
+        <ele>10</ele>
+      </trkpt>
+      <trkpt lat="40.7530" lon="-73.9755">
+        <ele>10</ele>
+      </trkpt>
+      <trkpt lat="40.7525" lon="-73.9745">
+        <ele>10</ele>
+      </trkpt>
+      <trkpt lat="40.7520" lon="-73.9735">
+        <ele>10</ele>
+      </trkpt>
+      <trkpt lat="40.7515" lon="-73.9725">
+        <ele>10</ele>
+      </trkpt>
+      <trkpt lat="40.7510" lon="-73.9715">
+        <ele>10</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx> 
