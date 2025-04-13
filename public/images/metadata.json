@@ -1,0 +1,1918 @@
+{
+  "images": [
+    {
+      "id": "b76b0723",
+      "path": "/images/raw_images/IMG_4278 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4278 2.jpg",
+      "location": [
+        38.75960555555555,
+        -119.9425138888889
+      ],
+      "description": "Image at 38.759606, -119.942514",
+      "dateTaken": "2024-09-25T09:20:37.000Z"
+    },
+    {
+      "id": "5f2543a6",
+      "path": "/images/raw_images/IMG_4529 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4529 2.jpg",
+      "location": [
+        38.468894444444445,
+        -100.24954166666667
+      ],
+      "description": "Image at 38.468894, -100.249542",
+      "dateTaken": "2024-10-16T16:42:33.000Z"
+    },
+    {
+      "id": "c5d3b238",
+      "path": "/images/raw_images/IMG_4429 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4429 2.jpg",
+      "location": [
+        37.81711944444445,
+        -110.34561944444444
+      ],
+      "description": "Image at 37.817119, -110.345619",
+      "dateTaken": "2024-10-06T14:43:05.000Z"
+    },
+    {
+      "id": "d4eb93cf",
+      "path": "/images/raw_images/IMG_4638.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4638.jpg",
+      "location": [
+        37.469366666666666,
+        -88.15218333333334
+      ],
+      "description": "Image at 37.469367, -88.152183",
+      "dateTaken": "2024-10-27T14:51:59.000Z"
+    },
+    {
+      "id": "62e2ee6e",
+      "path": "/images/raw_images/IMG_4366 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4366 2.jpg",
+      "location": [
+        37.823058333333336,
+        -112.43601944444445
+      ],
+      "description": "Image at 37.823058, -112.436019",
+      "dateTaken": "2024-10-03T13:35:20.000Z"
+    },
+    {
+      "id": "ca8c6bdf",
+      "path": "/images/raw_images/IMG_4374 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4374 2.jpg",
+      "location": [
+        37.570908333333335,
+        -112.05793055555556
+      ],
+      "description": "Image at 37.570908, -112.057931",
+      "dateTaken": "2024-10-03T20:10:23.000Z"
+    },
+    {
+      "id": "bcd68adf",
+      "path": "/images/raw_images/IMG_4458 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4458 2.jpg",
+      "location": [
+        37.69267222222222,
+        -108.03144722222223
+      ],
+      "description": "Image at 37.692672, -108.031447",
+      "dateTaken": "2024-10-09T08:56:22.000Z"
+    },
+    {
+      "id": "aa748e72",
+      "path": "/images/raw_images/IMG_4593.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4593.jpg",
+      "location": [
+        37.41112777777778,
+        -93.54104722222222
+      ],
+      "description": "Image at 37.411128, -93.541047",
+      "dateTaken": "2024-10-22T12:49:43.000Z"
+    },
+    {
+      "id": "3f73a2aa",
+      "path": "/images/raw_images/IMG_4655.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4655.jpg",
+      "location": [
+        37.544108333333334,
+        -86.01794444444444
+      ],
+      "description": "Image at 37.544108, -86.017944",
+      "dateTaken": "2024-10-29T18:51:40.000Z"
+    },
+    {
+      "id": "a7b68d07",
+      "path": "/images/raw_images/IMG_4470 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4470 2.jpg",
+      "location": [
+        38.14793888888889,
+        -107.75228888888888
+      ],
+      "description": "Image at 38.147939, -107.752289",
+      "dateTaken": "2024-10-10T07:14:14.000Z"
+    },
+    {
+      "id": "62c7d471",
+      "path": "/images/raw_images/IMG_4710.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4710.jpg",
+      "location": [
+        36.69593333333333,
+        -81.80449722222222
+      ],
+      "description": "Image at 36.695933, -81.804497",
+      "dateTaken": "2024-11-03T15:48:44.000Z"
+    },
+    {
+      "id": "c63ae26f",
+      "path": "/images/raw_images/IMG_4413 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4413 2.jpg",
+      "location": [
+        38.37140277777778,
+        -110.77210277777777
+      ],
+      "description": "Image at 38.371403, -110.772103",
+      "dateTaken": "2024-10-05T17:47:27.000Z"
+    },
+    {
+      "id": "ac9d3859",
+      "path": "/images/raw_images/IMG_4462 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4462 2.jpg",
+      "location": [
+        37.69171111111111,
+        -108.03160833333334
+      ],
+      "description": "Image at 37.691711, -108.031608",
+      "dateTaken": "2024-10-09T09:43:39.000Z"
+    },
+    {
+      "id": "dcaf86e9",
+      "path": "/images/raw_images/IMG_4333 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4333 2.jpg",
+      "location": [
+        39.37789444444444,
+        -115.8158111111111
+      ],
+      "description": "Image at 39.377894, -115.815811",
+      "dateTaken": "2024-09-29T08:42:43.000Z"
+    },
+    {
+      "id": "30f475f2",
+      "path": "/images/raw_images/IMG_4643.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4643.jpg",
+      "location": [
+        37.32762777777778,
+        -88.08230555555555
+      ],
+      "description": "Image at 37.327628, -88.082306",
+      "dateTaken": "2024-10-28T10:17:31.000Z"
+    },
+    {
+      "id": "99fba174",
+      "path": "/images/raw_images/IMG_4634.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4634.jpg",
+      "location": [
+        37.54646666666667,
+        -88.88246944444444
+      ],
+      "description": "Image at 37.546467, -88.882469",
+      "dateTaken": "2024-10-26T20:34:31.000Z"
+    },
+    {
+      "id": "d194fd13",
+      "path": "/images/raw_images/IMG_4395 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4395 2.jpg",
+      "location": [
+        37.99746388888889,
+        -111.41677777777778
+      ],
+      "description": "Image at 37.997464, -111.416778",
+      "dateTaken": "2024-10-05T08:47:43.000Z"
+    },
+    {
+      "id": "539d9d5d",
+      "path": "/images/raw_images/IMG_4673 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4673 2.jpg",
+      "location": [
+        37.56262222222222,
+        -84.25306666666667
+      ],
+      "description": "Image at 37.562622, -84.253067",
+      "dateTaken": "2024-10-31T15:54:14.000Z"
+    },
+    {
+      "id": "b8f13529",
+      "path": "/images/raw_images/IMG_4483 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4483 2.jpg",
+      "location": [
+        38.495961111111114,
+        -106.32556111111111
+      ],
+      "description": "Image at 38.495961, -106.325561",
+      "dateTaken": "2024-10-11T14:09:42.000Z"
+    },
+    {
+      "id": "c58344f2",
+      "path": "/images/raw_images/IMG_4589.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4589.jpg",
+      "location": [
+        37.32327222222222,
+        -93.58345
+      ],
+      "description": "Image at 37.323272, -93.583450",
+      "dateTaken": "2024-10-22T12:11:52.000Z"
+    },
+    {
+      "id": "71e11da9",
+      "path": "/images/raw_images/IMG_4588.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4588.jpg",
+      "location": [
+        37.31769444444445,
+        -93.57546111111111
+      ],
+      "description": "Image at 37.317694, -93.575461",
+      "dateTaken": "2024-10-22T11:51:40.000Z"
+    },
+    {
+      "id": "9f63e3a9",
+      "path": "/images/raw_images/IMG_4834.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4834.jpg",
+      "location": [
+        37.234725,
+        -76.50458611111111
+      ],
+      "description": "Image at 37.234725, -76.504586",
+      "dateTaken": "2024-11-10T11:01:05.000Z"
+    },
+    {
+      "id": "2220d11a",
+      "path": "/images/raw_images/IMG_4289 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4289 2.jpg",
+      "location": [
+        38.94843611111111,
+        -119.95755833333334
+      ],
+      "description": "Image at 38.948436, -119.957558",
+      "dateTaken": "2024-09-25T13:15:18.000Z"
+    },
+    {
+      "id": "bfa9ad0b",
+      "path": "/images/raw_images/IMG_4623.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4623.jpg",
+      "location": [
+        37.91881111111111,
+        -89.82093888888889
+      ],
+      "description": "Image at 37.918811, -89.820939",
+      "dateTaken": "2024-10-25T19:15:29.000Z"
+    },
+    {
+      "id": "e62bfab9",
+      "path": "/images/raw_images/IMG_4674.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4674.jpg",
+      "location": [
+        37.530052777777776,
+        -84.21428611111111
+      ],
+      "description": "Image at 37.530053, -84.214286",
+      "dateTaken": "2024-10-31T16:18:30.000Z"
+    },
+    {
+      "id": "ae58db0f",
+      "path": "/images/raw_images/IMG_4642.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4642.jpg",
+      "location": [
+        37.44825833333333,
+        -88.16201666666667
+      ],
+      "description": "Image at 37.448258, -88.162017",
+      "dateTaken": "2024-10-28T08:31:09.000Z"
+    },
+    {
+      "id": "d6be8545",
+      "path": "/images/raw_images/IMG_4615.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4615.jpg",
+      "location": [
+        37.61836944444445,
+        -90.64437222222223
+      ],
+      "description": "Image at 37.618369, -90.644372",
+      "dateTaken": "2024-10-25T07:49:27.000Z"
+    },
+    {
+      "id": "a1a1cee4",
+      "path": "/images/raw_images/IMG_4439 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4439 2.jpg",
+      "location": [
+        37.563805555555554,
+        -109.83614999999999
+      ],
+      "description": "Image at 37.563806, -109.836150",
+      "dateTaken": "2024-10-07T10:23:25.000Z"
+    },
+    {
+      "id": "f720877d",
+      "path": "/images/raw_images/IMG_4539 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4539 2.jpg",
+      "location": [
+        38.36375555555556,
+        -98.78498055555555
+      ],
+      "description": "Image at 38.363756, -98.784981",
+      "dateTaken": "2024-10-17T18:47:14.000Z"
+    },
+    {
+      "id": "3ae57901",
+      "path": "/images/raw_images/IMG_4444 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4444 2.jpg",
+      "location": [
+        37.88184722222222,
+        -109.34256666666666
+      ],
+      "description": "Image at 37.881847, -109.342567",
+      "dateTaken": "2024-10-08T06:11:11.000Z"
+    },
+    {
+      "id": "c778d344",
+      "path": "/images/raw_images/IMG_4746.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4746.jpg",
+      "location": [
+        37.93237222222222,
+        -78.95212500000001
+      ],
+      "description": "Image at 37.932372, -78.952125",
+      "dateTaken": "2024-11-07T07:41:17.000Z"
+    },
+    {
+      "id": "9c71ba22",
+      "path": "/images/raw_images/IMG_4448 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4448 2.jpg",
+      "location": [
+        37.47266388888889,
+        -108.50726388888889
+      ],
+      "description": "Image at 37.472664, -108.507264",
+      "dateTaken": "2024-10-08T13:16:44.000Z"
+    },
+    {
+      "id": "76b4d4d9",
+      "path": "/images/raw_images/IMG_4654.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4654.jpg",
+      "location": [
+        37.570705555555556,
+        -86.034425
+      ],
+      "description": "Image at 37.570706, -86.034425",
+      "dateTaken": "2024-10-29T18:39:53.000Z"
+    },
+    {
+      "id": "fa59914d",
+      "path": "/images/raw_images/IMG_4456 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4456 2.jpg",
+      "location": [
+        37.58580277777778,
+        -108.15998055555556
+      ],
+      "description": "Image at 37.585803, -108.159981",
+      "dateTaken": "2024-10-08T19:37:36.000Z"
+    },
+    {
+      "id": "91208890",
+      "path": "/images/raw_images/IMG_4678.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4678.jpg",
+      "location": [
+        37.432336111111105,
+        -83.99969444444444
+      ],
+      "description": "Image at 37.432336, -83.999694",
+      "dateTaken": "2024-11-01T08:41:41.000Z"
+    },
+    {
+      "id": "aa44d052",
+      "path": "/images/raw_images/IMG_4331 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4331 2.jpg",
+      "location": [
+        39.38577222222222,
+        -115.83597499999999
+      ],
+      "description": "Image at 39.385772, -115.835975",
+      "dateTaken": "2024-09-29T08:42:35.000Z"
+    },
+    {
+      "id": "34530f91",
+      "path": "/images/raw_images/IMG_4340 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4340 2.jpg",
+      "location": [
+        39.21418333333334,
+        -114.85540833333333
+      ],
+      "description": "Image at 39.214183, -114.855408",
+      "dateTaken": "2024-09-29T18:15:33.000Z"
+    },
+    {
+      "id": "bdca9eb2",
+      "path": "/images/raw_images/IMG_4411 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4411 2.jpg",
+      "location": [
+        38.37137222222222,
+        -110.77238333333334
+      ],
+      "description": "Image at 38.371372, -110.772383",
+      "dateTaken": "2024-10-05T17:47:20.000Z"
+    },
+    {
+      "id": "e89ef11e",
+      "path": "/images/raw_images/IMG_4639.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4639.jpg",
+      "location": [
+        37.46470277777778,
+        -88.16588611111112
+      ],
+      "description": "Image at 37.464703, -88.165886",
+      "dateTaken": "2024-10-28T08:19:40.000Z"
+    },
+    {
+      "id": "c8191a50",
+      "path": "/images/raw_images/IMG_4529 3.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4529 3.jpg",
+      "location": [
+        38.468894444444445,
+        -100.24954166666667
+      ],
+      "description": "Image at 38.468894, -100.249542",
+      "dateTaken": "2024-10-16T16:42:33.000Z"
+    },
+    {
+      "id": "6def5c4a",
+      "path": "/images/raw_images/IMG_4472 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4472 2.jpg",
+      "location": [
+        38.45796666666667,
+        -107.65203055555556
+      ],
+      "description": "Image at 38.457967, -107.652031",
+      "dateTaken": "2024-10-10T12:31:01.000Z"
+    },
+    {
+      "id": "467ef8a4",
+      "path": "/images/raw_images/IMG_4673.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4673.jpg",
+      "location": [
+        37.30634444444444,
+        -82.29421111111111
+      ],
+      "description": "Image at 37.306344, -82.294211",
+      "dateTaken": "2024-11-03T07:04:00.000Z"
+    },
+    {
+      "id": "d3d917b9",
+      "path": "/images/raw_images/IMG_4761.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4761.jpg",
+      "location": [
+        37.272216666666665,
+        -76.70699444444445
+      ],
+      "description": "Image at 37.272217, -76.706994",
+      "dateTaken": "2024-11-10T09:10:33.000Z"
+    },
+    {
+      "id": "fccb245c",
+      "path": "/images/raw_images/IMG_4281 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4281 2.jpg",
+      "location": [
+        38.776355555555554,
+        -119.91904444444445
+      ],
+      "description": "Image at 38.776356, -119.919044",
+      "dateTaken": "2024-09-25T09:32:48.000Z"
+    },
+    {
+      "id": "9f98ece3",
+      "path": "/images/raw_images/IMG_4293 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4293 2.jpg",
+      "location": [
+        39.23807222222222,
+        -119.58945555555555
+      ],
+      "description": "Image at 39.238072, -119.589456",
+      "dateTaken": "2024-09-25T18:56:09.000Z"
+    },
+    {
+      "id": "d9700ccf",
+      "path": "/images/raw_images/IMG_4560.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4560.jpg",
+      "location": [
+        38.042513888888884,
+        -97.003525
+      ],
+      "description": "Image at 38.042514, -97.003525",
+      "dateTaken": "2024-10-19T15:36:00.000Z"
+    },
+    {
+      "id": "705f0b07",
+      "path": "/images/raw_images/IMG_4568 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4568 2.jpg",
+      "location": [
+        37.73773055555556,
+        -95.90655555555556
+      ],
+      "description": "Image at 37.737731, -95.906556",
+      "dateTaken": "2024-10-20T14:34:12.000Z"
+    },
+    {
+      "id": "b1a3b6aa",
+      "path": "/images/raw_images/IMG_4344 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4344 2.jpg",
+      "location": [
+        39.04583611111111,
+        -114.5207361111111
+      ],
+      "description": "Image at 39.045836, -114.520736",
+      "dateTaken": "2024-09-30T09:48:24.000Z"
+    },
+    {
+      "id": "3879eb4f",
+      "path": "/images/raw_images/IMG_4515 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4515 2.jpg",
+      "location": [
+        38.44867222222222,
+        -102.43695000000001
+      ],
+      "description": "Image at 38.448672, -102.436950",
+      "dateTaken": "2024-10-14T16:06:49.000Z"
+    },
+    {
+      "id": "288e68a5",
+      "path": "/images/raw_images/IMG_4476 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4476 2.jpg",
+      "location": [
+        38.406461111111106,
+        -107.40789166666667
+      ],
+      "description": "Image at 38.406461, -107.407892",
+      "dateTaken": "2024-10-10T14:18:46.000Z"
+    },
+    {
+      "id": "4f629ca3",
+      "path": "/images/raw_images/IMG_4669.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4669.jpg",
+      "location": [
+        37.762225,
+        -84.8397611111111
+      ],
+      "description": "Image at 37.762225, -84.839761",
+      "dateTaken": "2024-10-31T08:18:55.000Z"
+    },
+    {
+      "id": "71416365",
+      "path": "/images/raw_images/IMG_4256 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4256 2.jpg",
+      "location": [
+        38.54893055555555,
+        -120.52868611111111
+      ],
+      "description": "Image at 38.548931, -120.528686",
+      "dateTaken": "2024-09-24T10:38:51.000Z"
+    },
+    {
+      "id": "695e9603",
+      "path": "/images/raw_images/IMG_4407 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4407 2.jpg",
+      "location": [
+        38.288311111111106,
+        -111.22248888888889
+      ],
+      "description": "Image at 38.288311, -111.222489",
+      "dateTaken": "2024-10-05T15:03:59.000Z"
+    },
+    {
+      "id": "fe8504b5",
+      "path": "/images/raw_images/IMG_4348 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4348 2.jpg",
+      "location": [
+        38.55154444444444,
+        -113.73384166666666
+      ],
+      "description": "Image at 38.551544, -113.733842",
+      "dateTaken": "2024-10-01T12:13:26.000Z"
+    },
+    {
+      "id": "166c336c",
+      "path": "/images/raw_images/IMG_4419 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4419 2.jpg",
+      "location": [
+        38.370175,
+        -110.70381944444445
+      ],
+      "description": "Image at 38.370175, -110.703819",
+      "dateTaken": "2024-10-06T07:56:42.000Z"
+    },
+    {
+      "id": "c0775037",
+      "path": "/images/raw_images/IMG_4260 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4260 2.jpg",
+      "location": [
+        38.54523888888889,
+        -120.49438611111111
+      ],
+      "description": "Image at 38.545239, -120.494386",
+      "dateTaken": "2024-09-24T10:57:17.000Z"
+    },
+    {
+      "id": "7ef4c28f",
+      "path": "/images/raw_images/IMG_4431 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4431 2.jpg",
+      "location": [
+        37.81711666666667,
+        -110.34561111111111
+      ],
+      "description": "Image at 37.817117, -110.345611",
+      "dateTaken": "2024-10-06T14:43:12.000Z"
+    },
+    {
+      "id": "1f70124b",
+      "path": "/images/raw_images/IMG_4360 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4360 2.jpg",
+      "location": [
+        37.58215277777778,
+        -112.88247777777777
+      ],
+      "description": "Image at 37.582153, -112.882478",
+      "dateTaken": "2024-10-03T08:29:15.000Z"
+    },
+    {
+      "id": "d923489c",
+      "path": "/images/raw_images/IMG_4303 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4303 2.jpg",
+      "location": [
+        39.32461111111112,
+        -118.51106388888888
+      ],
+      "description": "Image at 39.324611, -118.511064",
+      "dateTaken": "2024-09-26T14:41:59.000Z"
+    },
+    {
+      "id": "c563d837",
+      "path": "/images/raw_images/IMG_4741.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4741.jpg",
+      "location": [
+        37.91116666666667,
+        -79.08563888888888
+      ],
+      "description": "Image at 37.911167, -79.085639",
+      "dateTaken": "2024-11-06T15:13:46.000Z"
+    },
+    {
+      "id": "8db37cec",
+      "path": "/images/raw_images/IMG_4440 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4440 2.jpg",
+      "location": [
+        37.56380833333333,
+        -109.83614999999999
+      ],
+      "description": "Image at 37.563808, -109.836150",
+      "dateTaken": "2024-10-07T10:23:30.000Z"
+    },
+    {
+      "id": "eebf803f",
+      "path": "/images/raw_images/IMG_4645.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4645.jpg",
+      "location": [
+        37.55459166666667,
+        -87.61184722222221
+      ],
+      "description": "Image at 37.554592, -87.611847",
+      "dateTaken": "2024-10-28T13:40:47.000Z"
+    },
+    {
+      "id": "e2603f7a",
+      "path": "/images/raw_images/IMG_4466 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4466 2.jpg",
+      "location": [
+        37.945611111111106,
+        -107.868325
+      ],
+      "description": "Image at 37.945611, -107.868325",
+      "dateTaken": "2024-10-09T12:23:37.000Z"
+    },
+    {
+      "id": "ee945855",
+      "path": "/images/raw_images/IMG_4613.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4613.jpg",
+      "location": [
+        37.60226388888889,
+        -90.79113055555555
+      ],
+      "description": "Image at 37.602264, -90.791131",
+      "dateTaken": "2024-10-24T16:55:57.000Z"
+    },
+    {
+      "id": "c919cef8",
+      "path": "/images/raw_images/IMG_4756.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4756.jpg",
+      "location": [
+        37.26794722222222,
+        -76.86916388888888
+      ],
+      "description": "Image at 37.267947, -76.869164",
+      "dateTaken": "2024-11-09T19:17:40.000Z"
+    },
+    {
+      "id": "be6481ed",
+      "path": "/images/raw_images/IMG_4354 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4354 2.jpg",
+      "location": [
+        37.75378333333333,
+        -113.05534444444444
+      ],
+      "description": "Image at 37.753783, -113.055344",
+      "dateTaken": "2024-10-02T14:02:58.000Z"
+    },
+    {
+      "id": "ce2256bd",
+      "path": "/images/raw_images/IMG_4605.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4605.jpg",
+      "location": [
+        37.235150000000004,
+        -91.754525
+      ],
+      "description": "Image at 37.235150, -91.754525",
+      "dateTaken": "2024-10-23T16:27:00.000Z"
+    },
+    {
+      "id": "12e70fc1",
+      "path": "/images/raw_images/IMG_4574 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4574 2.jpg",
+      "location": [
+        37.64723611111111,
+        -95.45442222222222
+      ],
+      "description": "Image at 37.647236, -95.454422",
+      "dateTaken": "2024-10-21T08:07:29.000Z"
+    },
+    {
+      "id": "a2f47afd",
+      "path": "/images/raw_images/IMG_4358 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4358 2.jpg",
+      "location": [
+        37.59323055555556,
+        -112.89195277777779
+      ],
+      "description": "Image at 37.593231, -112.891953",
+      "dateTaken": "2024-10-03T08:12:22.000Z"
+    },
+    {
+      "id": "332d0fd9",
+      "path": "/images/raw_images/IMG_4509 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4509 2.jpg",
+      "location": [
+        38.012394444444446,
+        -103.17421666666667
+      ],
+      "description": "Image at 38.012394, -103.174217",
+      "dateTaken": "2024-10-14T09:18:35.000Z"
+    },
+    {
+      "id": "4fb85b76",
+      "path": "/images/raw_images/IMG_4258 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4258 2.jpg",
+      "location": [
+        38.54893055555555,
+        -120.52874722222222
+      ],
+      "description": "Image at 38.548931, -120.528747",
+      "dateTaken": "2024-09-24T10:38:57.000Z"
+    },
+    {
+      "id": "40b2b04a",
+      "path": "/images/raw_images/IMG_4346 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4346 2.jpg",
+      "location": [
+        38.94950833333333,
+        -114.04928611111112
+      ],
+      "description": "Image at 38.949508, -114.049286",
+      "dateTaken": "2024-09-30T17:51:20.000Z"
+    },
+    {
+      "id": "11d8e8ce",
+      "path": "/images/raw_images/IMG_4517 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4517 2.jpg",
+      "location": [
+        38.455425000000005,
+        -102.38403333333333
+      ],
+      "description": "Image at 38.455425, -102.384033",
+      "dateTaken": "2024-10-14T16:20:39.000Z"
+    },
+    {
+      "id": "2316c084",
+      "path": "/images/raw_images/IMG_4313 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4313 2.jpg",
+      "location": [
+        39.287394444444445,
+        -118.02745833333333
+      ],
+      "description": "Image at 39.287394, -118.027458",
+      "dateTaken": "2024-09-27T07:33:43.000Z"
+    },
+    {
+      "id": "1ed8b6d3",
+      "path": "/images/raw_images/IMG_4442 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4442 2.jpg",
+      "location": [
+        37.504822222222224,
+        -109.64860555555556
+      ],
+      "description": "Image at 37.504822, -109.648606",
+      "dateTaken": "2024-10-07T11:14:24.000Z"
+    },
+    {
+      "id": "a9adb846",
+      "path": "/images/raw_images/IMG_4542 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4542 2.jpg",
+      "location": [
+        38.23955277777778,
+        -98.74810833333333
+      ],
+      "description": "Image at 38.239553, -98.748108",
+      "dateTaken": "2024-10-18T11:28:53.000Z"
+    },
+    {
+      "id": "fd6ff035",
+      "path": "/images/raw_images/IMG_4691.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4691.jpg",
+      "location": [
+        37.37141388888889,
+        -82.7605138888889
+      ],
+      "description": "Image at 37.371414, -82.760514",
+      "dateTaken": "2024-11-02T13:04:48.000Z"
+    },
+    {
+      "id": "2239bd21",
+      "path": "/images/raw_images/IMG_4421 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4421 2.jpg",
+      "location": [
+        38.023852777777776,
+        -110.5670611111111
+      ],
+      "description": "Image at 38.023853, -110.567061",
+      "dateTaken": "2024-10-06T10:21:48.000Z"
+    },
+    {
+      "id": "eeb89694",
+      "path": "/images/raw_images/IMG_4270 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4270 2.jpg",
+      "location": [
+        38.70575277777778,
+        -120.10319444444444
+      ],
+      "description": "Image at 38.705753, -120.103194",
+      "dateTaken": "2024-09-24T17:23:11.000Z"
+    },
+    {
+      "id": "b98b4803",
+      "path": "/images/raw_images/IMG_4521 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4521 2.jpg",
+      "location": [
+        38.46809722222223,
+        -102.04435
+      ],
+      "description": "Image at 38.468097, -102.044350",
+      "dateTaken": "2024-10-15T08:53:49.000Z"
+    },
+    {
+      "id": "399e3094",
+      "path": "/images/raw_images/IMG_4550 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4550 2.jpg",
+      "location": [
+        38.06456111111111,
+        -97.93314444444445
+      ],
+      "description": "Image at 38.064561, -97.933144",
+      "dateTaken": "2024-10-18T19:24:23.000Z"
+    },
+    {
+      "id": "442a260c",
+      "path": "/images/raw_images/IMG_4301 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4301 2.jpg",
+      "location": [
+        39.32459722222222,
+        -118.51108611111111
+      ],
+      "description": "Image at 39.324597, -118.511086",
+      "dateTaken": "2024-09-26T14:41:55.000Z"
+    },
+    {
+      "id": "a61df542",
+      "path": "/images/raw_images/IMG_4262 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4262 2.jpg",
+      "location": [
+        38.53869722222222,
+        -120.3969888888889
+      ],
+      "description": "Image at 38.538697, -120.396989",
+      "dateTaken": "2024-09-24T13:11:13.000Z"
+    },
+    {
+      "id": "b47f7970",
+      "path": "/images/raw_images/IMG_4433 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4433 2.jpg",
+      "location": [
+        37.81711944444445,
+        -110.34565833333333
+      ],
+      "description": "Image at 37.817119, -110.345658",
+      "dateTaken": "2024-10-06T14:43:21.000Z"
+    },
+    {
+      "id": "910dd959",
+      "path": "/images/raw_images/IMG_4362 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4362 2.jpg",
+      "location": [
+        37.60485,
+        -112.85087499999999
+      ],
+      "description": "Image at 37.604850, -112.850875",
+      "dateTaken": "2024-10-03T09:26:33.000Z"
+    },
+    {
+      "id": "064e8fbc",
+      "path": "/images/raw_images/IMG_4391 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4391 2.jpg",
+      "location": [
+        37.803241666666665,
+        -111.40281666666667
+      ],
+      "description": "Image at 37.803242, -111.402817",
+      "dateTaken": "2024-10-04T15:10:45.000Z"
+    },
+    {
+      "id": "60a3019d",
+      "path": "/images/raw_images/IMG_4291 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4291 2.jpg",
+      "location": [
+        39.169402777777776,
+        -119.76701388888888
+      ],
+      "description": "Image at 39.169403, -119.767014",
+      "dateTaken": "2024-09-25T16:41:30.000Z"
+    },
+    {
+      "id": "d84f4f07",
+      "path": "/images/raw_images/IMG_4672.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4672.jpg",
+      "location": [
+        37.69560277777777,
+        -84.55904444444444
+      ],
+      "description": "Image at 37.695603, -84.559044",
+      "dateTaken": "2024-10-31T10:29:48.000Z"
+    },
+    {
+      "id": "ed8f3fa2",
+      "path": "/images/raw_images/IMG_4283 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4283 2.jpg",
+      "location": [
+        38.796816666666665,
+        -120.00753055555556
+      ],
+      "description": "Image at 38.796817, -120.007531",
+      "dateTaken": "2024-09-25T10:19:52.000Z"
+    },
+    {
+      "id": "29f6d07b",
+      "path": "/images/raw_images/IMG_4383 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4383 2.jpg",
+      "location": [
+        37.72669166666667,
+        -111.77275
+      ],
+      "description": "Image at 37.726692, -111.772750",
+      "dateTaken": "2024-10-04T10:04:53.000Z"
+    },
+    {
+      "id": "35813f01",
+      "path": "/images/raw_images/IMG_4633.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4633.jpg",
+      "location": [
+        37.623530555555554,
+        -89.07095277777778
+      ],
+      "description": "Image at 37.623531, -89.070953",
+      "dateTaken": "2024-10-26T16:27:03.000Z"
+    },
+    {
+      "id": "ae76e7f8",
+      "path": "/images/raw_images/IMG_4298 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4298 2.jpg",
+      "location": [
+        39.474719444444446,
+        -118.78846666666666
+      ],
+      "description": "Image at 39.474719, -118.788467",
+      "dateTaken": "2024-09-26T12:18:25.000Z"
+    },
+    {
+      "id": "bb25f975",
+      "path": "/images/raw_images/IMG_4286 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4286 2.jpg",
+      "location": [
+        38.79746111111111,
+        -120.01995833333334
+      ],
+      "description": "Image at 38.797461, -120.019958",
+      "dateTaken": "2024-09-25T10:42:05.000Z"
+    },
+    {
+      "id": "51cc963c",
+      "path": "/images/raw_images/IMG_4734.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4734.jpg",
+      "location": [
+        37.13625277777778,
+        -80.57126666666666
+      ],
+      "description": "Image at 37.136253, -80.571267",
+      "dateTaken": "2024-11-05T08:47:54.000Z"
+    },
+    {
+      "id": "d0e72ebc",
+      "path": "/images/raw_images/IMG_4571 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4571 2.jpg",
+      "location": [
+        37.65460833333333,
+        -95.83265
+      ],
+      "description": "Image at 37.654608, -95.832650",
+      "dateTaken": "2024-10-20T15:37:12.000Z"
+    },
+    {
+      "id": "fabca963",
+      "path": "/images/raw_images/IMG_4320 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4320 2.jpg",
+      "location": [
+        39.41413055555555,
+        -117.84111666666666
+      ],
+      "description": "Image at 39.414131, -117.841117",
+      "dateTaken": "2024-09-27T10:06:35.000Z"
+    },
+    {
+      "id": "1bfb745c",
+      "path": "/images/raw_images/IMG_4743.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4743.jpg",
+      "location": [
+        37.88453333333333,
+        -79.01692222222222
+      ],
+      "description": "Image at 37.884533, -79.016922",
+      "dateTaken": "2024-11-07T06:47:10.000Z"
+    },
+    {
+      "id": "3e22e3c5",
+      "path": "/images/raw_images/IMG_4606.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4606.jpg",
+      "location": [
+        37.23538333333333,
+        -91.75441111111111
+      ],
+      "description": "Image at 37.235383, -91.754411",
+      "dateTaken": "2024-10-23T16:28:34.000Z"
+    },
+    {
+      "id": "3fe10700",
+      "path": "/images/raw_images/IMG_4351 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4351 2.jpg",
+      "location": [
+        38.39689722222222,
+        -113.020675
+      ],
+      "description": "Image at 38.396897, -113.020675",
+      "dateTaken": "2024-10-01T21:19:09.000Z"
+    },
+    {
+      "id": "2bb79da0",
+      "path": "/images/raw_images/IMG_4332 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4332 2.jpg",
+      "location": [
+        39.37779166666667,
+        -115.81579722222222
+      ],
+      "description": "Image at 39.377792, -115.815797",
+      "dateTaken": "2024-09-29T08:42:36.000Z"
+    },
+    {
+      "id": "dbf8f831",
+      "path": "/images/raw_images/IMG_4563 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4563 2.jpg",
+      "location": [
+        38.042344444444446,
+        -96.84296388888889
+      ],
+      "description": "Image at 38.042344, -96.842964",
+      "dateTaken": "2024-10-19T16:29:43.000Z"
+    },
+    {
+      "id": "4ba8d0f5",
+      "path": "/images/raw_images/IMG_4597.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4597.jpg",
+      "location": [
+        37.36831388888889,
+        -93.02766388888888
+      ],
+      "description": "Image at 37.368314, -93.027664",
+      "dateTaken": "2024-10-22T16:38:52.000Z"
+    },
+    {
+      "id": "d1570258",
+      "path": "/images/raw_images/IMG_4692.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4692.jpg",
+      "location": [
+        37.371375,
+        -82.76048333333334
+      ],
+      "description": "Image at 37.371375, -82.760483",
+      "dateTaken": "2024-11-02T13:04:50.000Z"
+    },
+    {
+      "id": "580ee526",
+      "path": "/images/raw_images/IMG_4379 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4379 2.jpg",
+      "location": [
+        37.72669166666667,
+        -111.77275
+      ],
+      "description": "Image at 37.726692, -111.772750",
+      "dateTaken": "2024-10-04T10:04:35.000Z"
+    },
+    {
+      "id": "4f70dd8a",
+      "path": "/images/raw_images/IMG_4279 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4279 2.jpg",
+      "location": [
+        38.75960555555555,
+        -119.94249722222223
+      ],
+      "description": "Image at 38.759606, -119.942497",
+      "dateTaken": "2024-09-25T09:20:44.000Z"
+    },
+    {
+      "id": "fdaf13a5",
+      "path": "/images/raw_images/IMG_4554.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4554.jpg",
+      "location": [
+        38.06508888888889,
+        -97.93390000000001
+      ],
+      "description": "Image at 38.065089, -97.933900",
+      "dateTaken": "2024-10-19T08:32:28.000Z"
+    },
+    {
+      "id": "6d7e8b03",
+      "path": "/images/raw_images/IMG_4308 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4308 2.jpg",
+      "location": [
+        39.266955555555555,
+        -118.39476666666667
+      ],
+      "description": "Image at 39.266956, -118.394767",
+      "dateTaken": "2024-09-26T15:40:15.000Z"
+    },
+    {
+      "id": "1a500b16",
+      "path": "/images/raw_images/IMG_4275 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4275 2.jpg",
+      "location": [
+        38.70025555555556,
+        -120.03510277777778
+      ],
+      "description": "Image at 38.700256, -120.035103",
+      "dateTaken": "2024-09-25T06:51:13.000Z"
+    },
+    {
+      "id": "46c6d17c",
+      "path": "/images/raw_images/IMG_4547 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4547 2.jpg",
+      "location": [
+        38.15858333333333,
+        -98.63829166666667
+      ],
+      "description": "Image at 38.158583, -98.638292",
+      "dateTaken": "2024-10-18T13:00:25.000Z"
+    },
+    {
+      "id": "36540714",
+      "path": "/images/raw_images/IMG_4461 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4461 2.jpg",
+      "location": [
+        37.69175833333333,
+        -108.03154722222222
+      ],
+      "description": "Image at 37.691758, -108.031547",
+      "dateTaken": "2024-10-09T08:58:25.000Z"
+    },
+    {
+      "id": "51272860",
+      "path": "/images/raw_images/IMG_4353 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4353 2.jpg",
+      "location": [
+        38.39122777777778,
+        -113.012825
+      ],
+      "description": "Image at 38.391228, -113.012825",
+      "dateTaken": "2024-10-02T08:59:19.000Z"
+    },
+    {
+      "id": "474dbf73",
+      "path": "/images/raw_images/sample1.heic",
+      "thumbnail": "/images/thumbnails/sample1.jpg",
+      "location": [
+        37.40603333333333,
+        -94.61690555555555
+      ],
+      "description": "Image at 37.406033, -94.616906",
+      "dateTaken": "2024-10-21T15:48:04.000Z"
+    },
+    {
+      "id": "35b629fe",
+      "path": "/images/raw_images/IMG_4510 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4510 2.jpg",
+      "location": [
+        38.00374166666667,
+        -103.16360555555556
+      ],
+      "description": "Image at 38.003742, -103.163606",
+      "dateTaken": "2024-10-14T09:18:39.000Z"
+    },
+    {
+      "id": "0dca8952",
+      "path": "/images/raw_images/IMG_4410 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4410 2.jpg",
+      "location": [
+        38.366883333333334,
+        -110.89240277777779
+      ],
+      "description": "Image at 38.366883, -110.892403",
+      "dateTaken": "2024-10-05T17:09:37.000Z"
+    },
+    {
+      "id": "61dfff16",
+      "path": "/images/raw_images/IMG_4579.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4579.jpg",
+      "location": [
+        37.40647222222222,
+        -94.62015555555556
+      ],
+      "description": "Image at 37.406472, -94.620156",
+      "dateTaken": "2024-10-21T15:46:38.000Z"
+    },
+    {
+      "id": "1a2b7bce",
+      "path": "/images/raw_images/IMG_4596.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4596.jpg",
+      "location": [
+        37.37483611111111,
+        -93.07930833333333
+      ],
+      "description": "Image at 37.374836, -93.079308",
+      "dateTaken": "2024-10-22T16:25:40.000Z"
+    },
+    {
+      "id": "b52cd962",
+      "path": "/images/raw_images/IMG_4545 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4545 2.jpg",
+      "location": [
+        38.15859722222222,
+        -98.63830555555556
+      ],
+      "description": "Image at 38.158597, -98.638306",
+      "dateTaken": "2024-10-18T13:00:20.000Z"
+    },
+    {
+      "id": "132525b5",
+      "path": "/images/raw_images/IMG_4445 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4445 2.jpg",
+      "location": [
+        37.815711111111106,
+        -109.03993888888888
+      ],
+      "description": "Image at 37.815711, -109.039939",
+      "dateTaken": "2024-10-08T08:52:41.000Z"
+    },
+    {
+      "id": "0da85a2f",
+      "path": "/images/raw_images/IMG_4314 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4314 2.jpg",
+      "location": [
+        39.29376666666666,
+        -117.98863888888889
+      ],
+      "description": "Image at 39.293767, -117.988639",
+      "dateTaken": "2024-09-27T08:09:23.000Z"
+    },
+    {
+      "id": "0d6240fb",
+      "path": "/images/raw_images/IMG_4269 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4269 2.jpg",
+      "location": [
+        38.70576388888889,
+        -120.10319444444444
+      ],
+      "description": "Image at 38.705764, -120.103194",
+      "dateTaken": "2024-09-24T17:23:08.000Z"
+    },
+    {
+      "id": "0487c221",
+      "path": "/images/raw_images/IMG_4650.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4650.jpg",
+      "location": [
+        37.604844444444446,
+        -86.53164722222222
+      ],
+      "description": "Image at 37.604844, -86.531647",
+      "dateTaken": "2024-10-29T12:33:03.000Z"
+    },
+    {
+      "id": "b6124e20",
+      "path": "/images/raw_images/IMG_4369 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4369 2.jpg",
+      "location": [
+        37.741,
+        -112.29991944444444
+      ],
+      "description": "Image at 37.741000, -112.299919",
+      "dateTaken": "2024-10-03T15:31:53.000Z"
+    },
+    {
+      "id": "bf272099",
+      "path": "/images/raw_images/IMG_4526 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4526 2.jpg",
+      "location": [
+        38.48135,
+        -101.35824722222222
+      ],
+      "description": "Image at 38.481350, -101.358247",
+      "dateTaken": "2024-10-15T16:24:32.000Z"
+    },
+    {
+      "id": "0a6b7756",
+      "path": "/images/raw_images/IMG_4277 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4277 2.jpg",
+      "location": [
+        38.75958611111111,
+        -119.94248333333334
+      ],
+      "description": "Image at 38.759586, -119.942483",
+      "dateTaken": "2024-09-25T09:20:28.000Z"
+    },
+    {
+      "id": "a2a8d4fd",
+      "path": "/images/raw_images/IMG_4377 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4377 2.jpg",
+      "location": [
+        37.61555555555556,
+        -111.89519444444446
+      ],
+      "description": "Image at 37.615556, -111.895194",
+      "dateTaken": "2024-10-04T08:50:54.000Z"
+    },
+    {
+      "id": "de7bf821",
+      "path": "/images/raw_images/IMG_4557 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4557 2.jpg",
+      "location": [
+        38.0485,
+        -97.34659444444443
+      ],
+      "description": "Image at 38.048500, -97.346594",
+      "dateTaken": "2024-10-19T12:59:30.000Z"
+    },
+    {
+      "id": "1742b6e9",
+      "path": "/images/raw_images/IMG_4611.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4611.jpg",
+      "location": [
+        37.52753333333333,
+        -90.85846666666666
+      ],
+      "description": "Image at 37.527533, -90.858467",
+      "dateTaken": "2024-10-24T16:14:42.000Z"
+    },
+    {
+      "id": "97e0e712",
+      "path": "/images/raw_images/IMG_4318 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4318 2.jpg",
+      "location": [
+        39.367358333333335,
+        -117.87786944444444
+      ],
+      "description": "Image at 39.367358, -117.877869",
+      "dateTaken": "2024-09-27T09:04:08.000Z"
+    },
+    {
+      "id": "22795bfb",
+      "path": "/images/raw_images/IMG_4580.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4580.jpg",
+      "location": [
+        37.40603333333333,
+        -94.61690555555555
+      ],
+      "description": "Image at 37.406033, -94.616906",
+      "dateTaken": "2024-10-21T15:48:04.000Z"
+    },
+    {
+      "id": "e399d8f0",
+      "path": "/images/raw_images/IMG_4365 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4365 2.jpg",
+      "location": [
+        37.77138611111111,
+        -112.44667777777778
+      ],
+      "description": "Image at 37.771386, -112.446678",
+      "dateTaken": "2024-10-03T13:06:24.000Z"
+    },
+    {
+      "id": "5674ce3f",
+      "path": "/images/raw_images/IMG_4434 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4434 2.jpg",
+      "location": [
+        37.63583055555556,
+        -110.15586111111112
+      ],
+      "description": "Image at 37.635831, -110.155861",
+      "dateTaken": "2024-10-06T17:59:23.000Z"
+    },
+    {
+      "id": "18012349",
+      "path": "/images/raw_images/IMG_4265 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4265 2.jpg",
+      "location": [
+        38.621119444444446,
+        -120.21755277777778
+      ],
+      "description": "Image at 38.621119, -120.217553",
+      "dateTaken": "2024-09-24T15:18:10.000Z"
+    },
+    {
+      "id": "d3f9ca4b",
+      "path": "/images/raw_images/IMG_4689.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4689.jpg",
+      "location": [
+        37.39495,
+        -82.78465277777778
+      ],
+      "description": "Image at 37.394950, -82.784653",
+      "dateTaken": "2024-11-02T12:40:12.000Z"
+    },
+    {
+      "id": "3072a3b9",
+      "path": "/images/raw_images/IMG_4296 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4296 2.jpg",
+      "location": [
+        39.36014166666667,
+        -119.37757777777777
+      ],
+      "description": "Image at 39.360142, -119.377578",
+      "dateTaken": "2024-09-26T08:13:47.000Z"
+    },
+    {
+      "id": "60f8329e",
+      "path": "/images/raw_images/IMG_4388 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4388 2.jpg",
+      "location": [
+        37.74664722222222,
+        -111.4538888888889
+      ],
+      "description": "Image at 37.746647, -111.453889",
+      "dateTaken": "2024-10-04T14:14:43.000Z"
+    },
+    {
+      "id": "8d9cf163",
+      "path": "/images/raw_images/IMG_4641.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4641.jpg",
+      "location": [
+        37.459922222222225,
+        -88.16552777777778
+      ],
+      "description": "Image at 37.459922, -88.165528",
+      "dateTaken": "2024-10-28T08:26:10.000Z"
+    },
+    {
+      "id": "92027bcd",
+      "path": "/images/raw_images/IMG_4302 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4302 2.jpg",
+      "location": [
+        39.32460833333334,
+        -118.51106944444444
+      ],
+      "description": "Image at 39.324608, -118.511069",
+      "dateTaken": "2024-09-26T14:41:57.000Z"
+    },
+    {
+      "id": "69bad7e8",
+      "path": "/images/raw_images/IMG_4430 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4430 2.jpg",
+      "location": [
+        37.81710833333334,
+        -110.34561111111111
+      ],
+      "description": "Image at 37.817108, -110.345611",
+      "dateTaken": "2024-10-06T14:43:08.000Z"
+    },
+    {
+      "id": "49b3e8a7",
+      "path": "/images/raw_images/IMG_4361 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4361 2.jpg",
+      "location": [
+        37.567505555555556,
+        -112.84934166666666
+      ],
+      "description": "Image at 37.567506, -112.849342",
+      "dateTaken": "2024-10-03T08:58:17.000Z"
+    },
+    {
+      "id": "16f2a9d4",
+      "path": "/images/raw_images/IMG_4261 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4261 2.jpg",
+      "location": [
+        38.53872222222222,
+        -120.39699444444445
+      ],
+      "description": "Image at 38.538722, -120.396994",
+      "dateTaken": "2024-09-24T13:11:11.000Z"
+    },
+    {
+      "id": "8f64bbb9",
+      "path": "/images/raw_images/IMG_4422 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4422 2.jpg",
+      "location": [
+        38.02382222222222,
+        -110.56705555555556
+      ],
+      "description": "Image at 38.023822, -110.567056",
+      "dateTaken": "2024-10-06T10:22:10.000Z"
+    },
+    {
+      "id": "f3d907b1",
+      "path": "/images/raw_images/IMG_4591.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4591.jpg",
+      "location": [
+        37.41132222222222,
+        -93.55034722222221
+      ],
+      "description": "Image at 37.411322, -93.550347",
+      "dateTaken": "2024-10-22T12:47:31.000Z"
+    },
+    {
+      "id": "518074e1",
+      "path": "/images/raw_images/IMG_4414 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4414 2.jpg",
+      "location": [
+        38.371411111111115,
+        -110.77205
+      ],
+      "description": "Image at 38.371411, -110.772050",
+      "dateTaken": "2024-10-05T17:47:28.000Z"
+    },
+    {
+      "id": "495adac8",
+      "path": "/images/raw_images/IMG_4349 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4349 2.jpg",
+      "location": [
+        38.551566666666666,
+        -113.73390277777779
+      ],
+      "description": "Image at 38.551567, -113.733903",
+      "dateTaken": "2024-10-01T12:13:30.000Z"
+    },
+    {
+      "id": "62d95d20",
+      "path": "/images/raw_images/IMG_4334 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4334 2.jpg",
+      "location": [
+        39.37789444444444,
+        -115.81578888888889
+      ],
+      "description": "Image at 39.377894, -115.815789",
+      "dateTaken": "2024-09-29T08:42:46.000Z"
+    },
+    {
+      "id": "6ba5981e",
+      "path": "/images/raw_images/IMG_4565 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4565 2.jpg",
+      "location": [
+        38.03963888888889,
+        -96.63773333333334
+      ],
+      "description": "Image at 38.039639, -96.637733",
+      "dateTaken": "2024-10-19T19:14:58.000Z"
+    },
+    {
+      "id": "204fd475",
+      "path": "/images/raw_images/IMG_4257 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4257 2.jpg",
+      "location": [
+        38.548922222222224,
+        -120.52873333333334
+      ],
+      "description": "Image at 38.548922, -120.528733",
+      "dateTaken": "2024-09-24T10:38:54.000Z"
+    },
+    {
+      "id": "08ccef2b",
+      "path": "/images/raw_images/IMG_4380 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4380 2.jpg",
+      "location": [
+        37.72669166666667,
+        -111.77275
+      ],
+      "description": "Image at 37.726692, -111.772750",
+      "dateTaken": "2024-10-04T10:04:37.000Z"
+    },
+    {
+      "id": "0a547e05",
+      "path": "/images/raw_images/IMG_4292 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4292 2.jpg",
+      "location": [
+        39.15524722222222,
+        -119.76627222222223
+      ],
+      "description": "Image at 39.155247, -119.766272",
+      "dateTaken": "2024-09-25T17:01:31.000Z"
+    },
+    {
+      "id": "793379c5",
+      "path": "/images/raw_images/IMG_4392 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4392 2.jpg",
+      "location": [
+        37.90861111111111,
+        -111.42337777777779
+      ],
+      "description": "Image at 37.908611, -111.423378",
+      "dateTaken": "2024-10-04T19:03:15.000Z"
+    },
+    {
+      "id": "f1a97fd7",
+      "path": "/images/raw_images/IMG_4698.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4698.jpg",
+      "location": [
+        37.30000555555555,
+        -82.30849444444443
+      ],
+      "description": "Image at 37.300006, -82.308494",
+      "dateTaken": "2024-11-02T18:16:55.000Z"
+    },
+    {
+      "id": "f0a71014",
+      "path": "/images/raw_images/IMG_4637.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4637.jpg",
+      "location": [
+        37.46771944444445,
+        -88.16624444444444
+      ],
+      "description": "Image at 37.467719, -88.166244",
+      "dateTaken": "2024-10-27T14:35:09.000Z"
+    },
+    {
+      "id": "3b626d34",
+      "path": "/images/raw_images/IMG_4660.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4660.jpg",
+      "location": [
+        37.30645,
+        -82.29421944444444
+      ],
+      "description": "Image at 37.306450, -82.294219",
+      "dateTaken": "2024-11-02T18:24:38.000Z"
+    },
+    {
+      "id": "50a82cf9",
+      "path": "/images/raw_images/IMG_4290 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4290 2.jpg",
+      "location": [
+        38.95906111111111,
+        -119.94219166666667
+      ],
+      "description": "Image at 38.959061, -119.942192",
+      "dateTaken": "2024-09-25T13:23:41.000Z"
+    },
+    {
+      "id": "95ee57a6",
+      "path": "/images/raw_images/IMG_4699.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4699.jpg",
+      "location": [
+        37.28468611111111,
+        -82.28791944444444
+      ],
+      "description": "Image at 37.284686, -82.287919",
+      "dateTaken": "2024-11-03T07:27:24.000Z"
+    },
+    {
+      "id": "6221c8e1",
+      "path": "/images/raw_images/IMG_4621.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4621.jpg",
+      "location": [
+        37.90554722222222,
+        -89.83373888888889
+      ],
+      "description": "Image at 37.905547, -89.833739",
+      "dateTaken": "2024-10-25T17:18:31.000Z"
+    },
+    {
+      "id": "256dfc4d",
+      "path": "/images/raw_images/IMG_4382 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4382 2.jpg",
+      "location": [
+        37.72669166666667,
+        -111.77275
+      ],
+      "description": "Image at 37.726692, -111.772750",
+      "dateTaken": "2024-10-04T10:04:51.000Z"
+    },
+    {
+      "id": "eccfbd64",
+      "path": "/images/raw_images/IMG_4282 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4282 2.jpg",
+      "location": [
+        38.787902777777774,
+        -119.94603055555557
+      ],
+      "description": "Image at 38.787903, -119.946031",
+      "dateTaken": "2024-09-25T09:59:17.000Z"
+    },
+    {
+      "id": "e73e64cb",
+      "path": "/images/raw_images/IMG_4494 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4494 2.jpg",
+      "location": [
+        38.36589722222222,
+        -105.74829166666667
+      ],
+      "description": "Image at 38.365897, -105.748292",
+      "dateTaken": "2024-10-12T07:16:51.000Z"
+    },
+    {
+      "id": "1bb5af09",
+      "path": "/images/raw_images/IMG_4271 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4271 2.jpg",
+      "location": [
+        38.70569166666667,
+        -120.05468888888889
+      ],
+      "description": "Image at 38.705692, -120.054689",
+      "dateTaken": "2024-09-24T18:13:57.000Z"
+    },
+    {
+      "id": "61a6c0f4",
+      "path": "/images/raw_images/IMG_4371 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4371 2.jpg",
+      "location": [
+        37.68454722222222,
+        -112.13399444444445
+      ],
+      "description": "Image at 37.684547, -112.133994",
+      "dateTaken": "2024-10-03T16:23:01.000Z"
+    },
+    {
+      "id": "7fd81fb3",
+      "path": "/images/raw_images/IMG_4312 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4312 2.jpg",
+      "location": [
+        39.28738055555555,
+        -118.0273888888889
+      ],
+      "description": "Image at 39.287381, -118.027389",
+      "dateTaken": "2024-09-27T07:33:40.000Z"
+    },
+    {
+      "id": "15f7795b",
+      "path": "/images/raw_images/IMG_4363 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4363 2.jpg",
+      "location": [
+        37.605775,
+        -112.84224722222221
+      ],
+      "description": "Image at 37.605775, -112.842247",
+      "dateTaken": "2024-10-03T09:30:48.000Z"
+    },
+    {
+      "id": "7deebe24",
+      "path": "/images/raw_images/IMG_4553.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4553.jpg",
+      "location": [
+        38.06454722222222,
+        -97.93328055555556
+      ],
+      "description": "Image at 38.064547, -97.933281",
+      "dateTaken": "2024-10-18T20:37:53.000Z"
+    },
+    {
+      "id": "d964cb31",
+      "path": "/images/raw_images/IMG_4532 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4532 2.jpg",
+      "location": [
+        38.45292777777778,
+        -99.90480833333334
+      ],
+      "description": "Image at 38.452928, -99.904808",
+      "dateTaken": "2024-10-16T18:55:05.000Z"
+    },
+    {
+      "id": "72ebafbd",
+      "path": "/images/raw_images/IMG_4590.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4590.jpg",
+      "location": [
+        37.40249722222222,
+        -93.5763861111111
+      ],
+      "description": "Image at 37.402497, -93.576386",
+      "dateTaken": "2024-10-22T12:37:21.000Z"
+    },
+    {
+      "id": "9e3e7d1b",
+      "path": "/images/raw_images/IMG_4467 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4467 2.jpg",
+      "location": [
+        37.94638333333333,
+        -107.87602222222222
+      ],
+      "description": "Image at 37.946383, -107.876022",
+      "dateTaken": "2024-10-09T12:52:24.000Z"
+    },
+    {
+      "id": "bb3f25dc",
+      "path": "/images/raw_images/IMG_4567 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4567 2.jpg",
+      "location": [
+        37.79819166666667,
+        -95.95034722222222
+      ],
+      "description": "Image at 37.798192, -95.950347",
+      "dateTaken": "2024-10-20T13:27:09.000Z"
+    },
+    {
+      "id": "ff916d23",
+      "path": "/images/raw_images/IMG_4347 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4347 2.jpg",
+      "location": [
+        38.89435833333333,
+        -114.01357222222222
+      ],
+      "description": "Image at 38.894358, -114.013572",
+      "dateTaken": "2024-09-30T19:11:29.000Z"
+    },
+    {
+      "id": "b0200e6e",
+      "path": "/images/raw_images/IMG_4617.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4617.jpg",
+      "location": [
+        37.78010555555556,
+        -90.41999166666668
+      ],
+      "description": "Image at 37.780106, -90.419992",
+      "dateTaken": "2024-10-25T12:37:10.000Z"
+    },
+    {
+      "id": "35c1d765",
+      "path": "/images/raw_images/IMG_4259 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4259 2.jpg",
+      "location": [
+        38.54897777777778,
+        -120.52876388888889
+      ],
+      "description": "Image at 38.548978, -120.528764",
+      "dateTaken": "2024-09-24T10:39:02.000Z"
+    },
+    {
+      "id": "b4413b86",
+      "path": "/images/raw_images/IMG_4586.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4586.jpg",
+      "location": [
+        37.393791666666665,
+        -94.08835555555555
+      ],
+      "description": "Image at 37.393792, -94.088356",
+      "dateTaken": "2024-10-22T07:49:21.000Z"
+    },
+    {
+      "id": "97656759",
+      "path": "/images/raw_images/IMG_4359 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4359 2.jpg",
+      "location": [
+        37.58215833333334,
+        -112.88247777777777
+      ],
+      "description": "Image at 37.582158, -112.882478",
+      "dateTaken": "2024-10-03T08:29:14.000Z"
+    },
+    {
+      "id": "696c8354",
+      "path": "/images/raw_images/IMG_4475 2.HEIC",
+      "thumbnail": "/images/thumbnails/IMG_4475 2.jpg",
+      "location": [
+        38.40646666666667,
+        -107.40770833333333
+      ],
+      "description": "Image at 38.406467, -107.407708",
+      "dateTaken": "2024-10-10T14:05:47.000Z"
+    }
+  ]
+}
