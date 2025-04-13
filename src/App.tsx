@@ -27,7 +27,12 @@ function App() {
   return (
     <div className="app-container">
       <header>
-        <h1>Street View my Cross-Country Bike Ride</h1>
+        <div className="header-left">
+          <a href="https://brooks.team" className="home-link" title="Return to brooks.team">
+            <span className="home-icon">🏠</span>
+          </a>
+          <h1>Street View my Cross-Country Bike Ride</h1>
+        </div>
         <div className="header-controls">
           <GpxSelector onGpxSelect={handleGpxSelect} />
         </div>

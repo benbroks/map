@@ -391,3 +391,29 @@ main {
   font-family: monospace;
   color: #777;
 }
+
+/* Add these styles after the existing header styles */
+
+.header-left {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.home-link {
+  color: white;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  padding: 0.5rem;
+  border-radius: 4px;
+  transition: background-color 0.3s;
+}
+
+.home-link:hover {
+  background-color: var(--primary-color);
+}
+
+.home-icon {
+  font-size: 1.2rem;
+}
