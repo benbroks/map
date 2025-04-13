@@ -25,28 +25,19 @@ const GpxSelector: React.FC<GpxSelectorProps> = ({ onGpxSelect }) => {
   });
 
   useEffect(() => {
-    loadAllGpxFiles();
+    loadFirstGpxFile();
   }, []);
 
-  const loadAllGpxFiles = async () => {
+  const loadFirstGpxFile = async () => {
     setIsLoading(true);
     try {
-      const allPoints: LatLngTuple[] = [];
-      
-      for (const file of gpxFiles) {
-        try {
-          const response = await fetch(file.path);
-          const gpxContent = await response.text();
-          const points = parseGpxFile(gpxContent);
-          allPoints.push(...points);
-        } catch (error) {
-          console.error(`Error loading GPX file ${file.path}:`, error);
-        }
-      }
-      
-      onGpxSelect(allPoints);
+      const firstFile = gpxFiles[0];
+      const response = await fetch(firstFile.path);
+      const gpxContent = await response.text();
+      const points = parseGpxFile(gpxContent);
+      onGpxSelect(points);
     } catch (error) {
-      console.error('Error loading GPX files:', error);
+      console.error('Error loading first GPX file:', error);
     } finally {
       setIsLoading(false);
     }
@@ -74,7 +65,7 @@ const GpxSelector: React.FC<GpxSelectorProps> = ({ onGpxSelect }) => {
 
   return (
     <div className="gpx-selector">
-      {isLoading && <span className="loading-indicator">Loading routes...</span>}
+      {isLoading && <span className="loading-indicator">Loading initial route...</span>}
     </div>
   );
 };

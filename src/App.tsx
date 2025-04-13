@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import { useState, useMemo } from 'react'
 import './App.css'
 import MapComponent from './components/MapComponent'
 import GpxSelector from './components/GpxSelector'
@@ -8,6 +8,12 @@ import { LatLngTuple } from 'leaflet'
 function App() {
   const [gpxData, setGpxData] = useState<{ points: LatLngTuple[] } | null>(null)
   const [selectedPoint, setSelectedPoint] = useState<LatLngTuple | null>(null)
+
+  // Create a subset of points for initial render (every 10th point)
+  const initialPoints = useMemo(() => {
+    if (!gpxData) return undefined;
+    return gpxData.points.filter((_, index) => index % 10 === 0);
+  }, [gpxData]);
 
   const handleGpxSelect = (points: LatLngTuple[]) => {
     setGpxData({ points })
@@ -31,6 +37,7 @@ function App() {
           {gpxData && (
             <MapComponent 
               gpxData={gpxData} 
+              initialPoints={initialPoints}
               onPointClick={handlePointClick} 
               selectedPoint={selectedPoint}
             />
