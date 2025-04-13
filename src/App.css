@@ -1,0 +1,393 @@
+:root {
+  --primary-color: #3498db;
+  --secondary-color: #2c3e50;
+  --background-color: #f5f7fa;
+  --text-color: #333;
+  --border-color: #ddd;
+  --error-color: #e74c3c;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: var(--background-color);
+  color: var(--text-color);
+}
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  width: 100%;
+}
+
+header {
+  background-color: var(--secondary-color);
+  color: white;
+  padding: 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+h1 {
+  font-size: 1.5rem;
+  margin: 0;
+}
+
+main {
+  display: flex;
+  flex-direction: row;
+  flex: 1;
+  overflow: hidden;
+}
+
+.map-container, .street-view-container {
+  flex: 1;
+  height: 100%;
+  position: relative;
+}
+
+.map-container {
+  border-right: 1px solid var(--border-color);
+}
+
+.leaflet-container {
+  height: 100%;
+  width: 100%;
+}
+
+.file-uploader {
+  display: flex;
+  align-items: center;
+}
+
+.file-input-label {
+  background-color: var(--primary-color);
+  color: white;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.file-input-label:hover {
+  background-color: #2980b9;
+}
+
+.file-input {
+  display: none;
+}
+
+.file-name {
+  margin-left: 1rem;
+  font-size: 0.9rem;
+}
+
+.gpx-selector {
+  display: flex;
+  align-items: center;
+}
+
+.gpx-selector label {
+  margin-right: 0.5rem;
+  color: white;
+}
+
+.gpx-selector select {
+  padding: 0.5rem;
+  border-radius: 4px;
+  border: 1px solid var(--border-color);
+  background-color: white;
+  font-size: 0.9rem;
+  cursor: pointer;
+}
+
+.gpx-selector select:focus {
+  outline: none;
+  border-color: var(--primary-color);
+  box-shadow: 0 0 0 2px rgba(52, 152, 219, 0.3);
+}
+
+.loading-indicator {
+  margin-left: 0.5rem;
+  font-size: 0.9rem;
+  color: white;
+}
+
+.header-controls {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.view-toggle-button {
+  background-color: var(--primary-color);
+  color: white;
+  border: none;
+  border-radius: 4px;
+  padding: 0.5rem 1rem;
+  font-size: 0.9rem;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.view-toggle-button:hover {
+  background-color: #2980b9;
+}
+
+.view-container {
+  flex: 1;
+  height: 100%;
+  position: relative;
+  overflow: hidden;
+}
+
+.empty-state {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  background-color: #f8f9fa;
+  color: var(--secondary-color);
+  font-size: 1.2rem;
+  text-align: center;
+  padding: 2rem;
+}
+
+.image-viewer {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+  background-color: #f8f9fa;
+  overflow: auto;
+}
+
+.image-viewer h3 {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  color: var(--secondary-color);
+}
+
+.image-container {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+.location-image {
+  max-width: 100%;
+  max-height: 70vh;
+  object-fit: contain;
+  border-radius: 4px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  transition: transform 0.3s;
+}
+
+.location-image:hover {
+  transform: scale(1.02);
+}
+
+.image-description {
+  margin-top: 1rem;
+  padding: 1rem;
+  background-color: white;
+  border-radius: 4px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 600px;
+  text-align: center;
+}
+
+.image-date {
+  margin-top: 0.5rem;
+  font-size: 0.9rem;
+  color: #777;
+}
+
+.error-message {
+  color: var(--error-color);
+  padding: 1rem;
+  background-color: rgba(231, 76, 60, 0.1);
+  border-radius: 4px;
+  margin: 1rem 0;
+}
+
+@media (max-width: 768px) {
+  main {
+    flex-direction: column;
+  }
+  
+  header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .file-uploader {
+    margin-top: 1rem;
+  }
+}
+
+/* Image marker styles */
+.image-marker {
+  background-color: transparent !important;
+}
+
+/* Popup styles */
+.image-popup .leaflet-popup-content-wrapper {
+  padding: 0;
+  overflow: hidden;
+  border-radius: 8px;
+  box-shadow: 0 3px 14px rgba(0, 0, 0, 0.2);
+}
+
+.image-popup .leaflet-popup-content {
+  margin: 0;
+  width: 250px !important;
+}
+
+.popup-content {
+  display: flex;
+  flex-direction: column;
+}
+
+.popup-image-container {
+  width: 100%;
+  height: 150px;
+  overflow: hidden;
+}
+
+.popup-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  cursor: pointer;
+  transition: transform 0.3s;
+}
+
+.popup-image:hover {
+  transform: scale(1.05);
+}
+
+.popup-description {
+  padding: 10px;
+  background-color: white;
+}
+
+.popup-description p {
+  margin: 0;
+  font-size: 0.9rem;
+  color: var(--secondary-color);
+}
+
+.popup-date {
+  margin-top: 5px !important;
+  font-size: 0.8rem !important;
+  color: #777 !important;
+}
+
+.view-full-image-btn {
+  background-color: var(--primary-color);
+  color: white;
+  border: none;
+  padding: 8px;
+  cursor: pointer;
+  width: 100%;
+  font-size: 0.9rem;
+  transition: background-color 0.3s;
+}
+
+.view-full-image-btn:hover {
+  background-color: #2980b9;
+}
+
+/* Modal styles */
+.image-modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.8);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.image-modal-content {
+  background-color: white;
+  border-radius: 8px;
+  max-width: 90%;
+  max-height: 90%;
+  width: auto;
+  height: auto;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.close-modal-btn {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  border: none;
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  z-index: 10;
+}
+
+.modal-image-container {
+  max-height: 80vh;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.modal-image {
+  max-width: 100%;
+  max-height: 80vh;
+  object-fit: contain;
+}
+
+.modal-image-info {
+  padding: 15px;
+  background-color: white;
+}
+
+.modal-image-info h3 {
+  margin-top: 0;
+  margin-bottom: 10px;
+  color: var(--secondary-color);
+}
+
+.modal-image-info p {
+  margin: 5px 0;
+  font-size: 0.9rem;
+}
+
+.image-location {
+  font-family: monospace;
+  color: #777;
+}
