@@ -1,23 +1,9 @@
 import { useEffect, useRef, useState } from 'react';
 import { MapContainer, TileLayer, Polyline, Marker, useMap } from 'react-leaflet';
-import { Icon, DivIcon } from 'leaflet';
+import { DivIcon, LatLngTuple } from 'leaflet';
 import 'leaflet/dist/leaflet.css';
 import ImageMarker from './ImageMarker';
 import ImageModal from './ImageModal';
-
-// Fix for default marker icons in Leaflet with React
-import icon from 'leaflet/dist/images/marker-icon.png';
-import iconShadow from 'leaflet/dist/images/marker-shadow.png';
-
-// Use a consistent LatLngTuple type
-type LatLngTuple = [number, number];
-
-const DefaultIcon = new Icon({
-  iconUrl: icon,
-  shadowUrl: iconShadow,
-  iconSize: [25, 41],
-  iconAnchor: [12, 41]
-});
 
 interface MapComponentProps {
   gpxData: {
@@ -31,10 +17,11 @@ interface ImageInfo {
   id: string;
   path: string;
   location: LatLngTuple;
-  thumbnail?: string;
+  thumbnail: string;
   description?: string;
   dateTaken?: string;
 }
+
 
 // Component to handle map bounds
 const MapBounds = ({ points }: { points: LatLngTuple[] }) => {
@@ -68,7 +55,6 @@ const MapComponent: React.FC<MapComponentProps> = ({
   useEffect(() => {
     const fetchImageMetadata = async () => {
       try {
-        var startTime = performance.now();
         const response = await fetch('/images/metadata.json');
         const data = await response.json();
         setImages(data.images);

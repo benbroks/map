@@ -1,4 +1,4 @@
-# GPX Street Explorer
+# Street View my Cross-Country Bike Ride
 
 A web application that allows you to visualize GPX routes on a map and explore them using Google Street View and view HEIF/HEIC images associated with locations along the route.
 

@@ -1,15 +1,12 @@
 import { useState, useEffect } from 'react';
 import { Marker, Popup } from 'react-leaflet';
-import { DivIcon } from 'leaflet';
-
-// Use the same LatLngTuple type as in other components
-type LatLngTuple = [number, number];
+import { DivIcon, LatLngTuple } from 'leaflet';
 
 interface ImageInfo {
   id: string;
   path: string;
   location: LatLngTuple;
-  thumbnail?: string;
+  thumbnail: string;
   description?: string;
   dateTaken?: string;
 }
@@ -20,7 +17,6 @@ interface ImageMarkerProps {
 }
 
 const ImageMarker: React.FC<ImageMarkerProps> = ({ image, onImageClick }) => {
-  const [isPopupOpen, setIsPopupOpen] = useState(false);
   const [isImageLoaded, setIsImageLoaded] = useState(false);
 
   // Pre-load the image when component mounts or image changes
@@ -73,7 +69,6 @@ const ImageMarker: React.FC<ImageMarkerProps> = ({ image, onImageClick }) => {
   });
 
   const handleMarkerClick = () => {
-    setIsPopupOpen(true);    
     // Only attempt to load if not already loaded
     if (!isImageLoaded) {
       const img = new Image();

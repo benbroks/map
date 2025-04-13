@@ -35,7 +35,7 @@ const StreetViewComponent: React.FC<StreetViewComponentProps> = ({ position }) =
       const streetViewService = new google.maps.StreetViewService();
       streetViewService.getPanorama(
         { location: latLng, radius: 50 },
-        (data, status) => {
+        (_, status) => {
           if (status === google.maps.StreetViewStatus.OK) {
             setNoStreetView(false);
             

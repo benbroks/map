@@ -8,9 +8,7 @@
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "process-images": "node scripts/process-images.js",
-    "generate-metadata": "node scripts/generate-metadata.js",
-    "generate-thumbnails": "node scripts/generate-thumbnails.js"
+    "start": "vite"
   },
   "dependencies": {
     "@react-google-maps/api": "^2.20.6",

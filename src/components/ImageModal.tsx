@@ -1,11 +1,11 @@
 import { useState, useEffect } from 'react';
-import heic2any from 'heic2any';
+import { LatLngTuple } from 'leaflet';
 
 interface ImageInfo {
   id: string;
   path: string;
   location: LatLngTuple;
-  thumbnail?: string;
+  thumbnail: string;
   description?: string;
   dateTaken?: string;
 }
@@ -14,8 +14,6 @@ interface ImageModalProps {
   image: ImageInfo | null;
   onClose: () => void;
 }
-
-type LatLngTuple = [number, number];
 
 const ImageModal: React.FC<ImageModalProps> = ({ image, onClose }) => {
   const [loading, setLoading] = useState<boolean>(false);

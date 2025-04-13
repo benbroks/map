@@ -21,7 +21,7 @@ function App() {
   return (
     <div className="app-container">
       <header>
-        <h1>GPX Street Explorer</h1>
+        <h1>Street View my Cross-Country Bike Ride</h1>
         <div className="header-controls">
           <GpxSelector onGpxSelect={handleGpxSelect} />
         </div>
